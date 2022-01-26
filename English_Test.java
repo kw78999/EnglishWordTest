@@ -25,6 +25,7 @@ public class Main {
                 list.add(aLine);
             }
             boolean[] flag = new boolean[list.size()];
+            boolean[] failCheck = new boolean[list.size()];
             int cnt = 0;
             int success = 0;
             int fail = 0;
@@ -57,13 +58,22 @@ public class Main {
                     }else{
                         System.out.println("---------------------------틀렸습니다.");
                         fail++;
+                        failCheck[i] = true;
                     }
                 }
                 if(cnt == list.size())break;
-                System.out.println("점수 : "+success + " / " + list.size());
+                System.out.println("진행률 : "+cnt + " / " + list.size());
                 System.out.println();
             }
-            System.out.println("점수 : "+success + " / " + list.size()  + "틀린 개수 : " + fail + " / " + list.size());
+            System.out.println();
+            for (int i = 0; i < list.size(); i++){
+                if(failCheck[i] == true){
+                    System.out.print(list.get(i).get(0) + " - ");
+                    System.out.println(list.get(i).get(1));
+                }
+            }
+            System.out.println();
+            System.out.println("점수 : "+success + " / " + list.size()  + "   틀린 개수 : " + fail + " / " + list.size());
         } catch (Exception e) {
             e.printStackTrace();
         }
