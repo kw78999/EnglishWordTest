@@ -114,6 +114,9 @@ public class Main {
                 if(dap.readLine()!=null)
                     level2(failSizeInteger);
             }else{
+	    System.out.println("Your victory.");
+	    System.out.println();
+	    System.out.println("TOEIC can't beat your efforts.");
                 return;
             }
         } catch (Exception e) {
