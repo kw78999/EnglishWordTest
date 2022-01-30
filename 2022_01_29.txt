@@ -32,8 +32,8 @@ disagreement, 불일치
 deal, 거래/합의
 clothing, 의류
 replace, 교체하다
-operating, 조작의, 운전의
-making a copy/copying/photocopying 복사하다
+operating, 조작의/ 운전의
+making a copy/copying/photocopying, 복사하다
 working on, 어떠한 작업중
 unloading, (짐을)내리다
 facing, 마주보다 (사람/사물 구분없음)
@@ -53,12 +53,12 @@ counter, 계산대
 ladder, 사다리
 stairs/steps/stairway/staircase, 계단
 browsing, 쇼핑중
-handing out. (문서 등을)나눠주다
+handing out, (문서 등을)나눠주다
 taking notes, 필기
 picking up, 집어 들다(집어드는중)
 getiing up, 일어나다(일어나는중)
 stacking, 쌓고있다
-oranizing/arranging, 정리하다
+organizing/arranging, 정리하다
 taking off, 벗으려는 동작
 trying on, 입으려는 동작
 grass, 잔디
@@ -89,5 +89,30 @@ placing A onto B, A를 B위에 놓고있다
 strolling, 걷고있다
 produce, 농산물
 gatherd, 모여있다
-
- 
+be required to, ~하라고 요구받다
+present, 제시하다
+reference letter, 추천서
+discontinue, 중단하다
+funding, 자금조달
+government, 정부
+fuel cost, 연료가격
+significantly, 상당히
+deduct, 공제하다
+out of stock, 재고
+place, 두다
+accommodate, 수용하다
+include, 포함하다
+expect, 기대하다/예상하다
+attend, 참석하다
+accelerated,가속화 하다
+offer,( 누구에게~무엇을~) 제공하다
+operate, 가동되다
+ease, 완화시키다
+last, 지난/ 마지막의 / 지속되다(동사)
+maternity leave, 육아휴직
+distinctive, 독특한(형), 탁월함(명)
+while, ~하는동안 (=when)
+than predicted, 기대보다
+than expected, 기대보다
+than anticipated, 기대보다
+receipt, 영수증
