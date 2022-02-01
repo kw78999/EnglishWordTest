@@ -52,10 +52,42 @@ handle, 다루다/처리하다 [Vt]
 oppose, 반대하다 [Vt]
 participate in, 참석하다 [Vi]
 account for, 설명하다 [Vi]
-respond to, 응답하다 [Vi]
+respond to, 응답하다 [Vi]ㄴ
 speak to/with, 말하다 [Vi]
 listen to, 듣다 [Vi]
 arrive at/in, 도착하다 [Vi]
 talk about, 논의하다 [Vi]
 deal with, 다루다/처리하다 [Vi]
 object to, 반대하다  [Vi]
+since, 과거시점 이래로 지금까지 쭉 (전치사)/ ~이래로 or ~때문에(접속사)
+based on, ~을 근거로
+be to부정사, ~할 의무/~할 예정 
+proprortion, 부분
+effort, 노력
+make an effort, 노력을 기울이다
+have result, 결과를 얻다
+alternative, 대안의 (형)
+a solution to 명, 명사에 대한 해법
+an answer to 명사, 명사에 대한 응답
+obligations, 의무
+incentives, 장려금
+disabled worker, 장애가 있는 직원
+acquisition, 인수 습득
+suspension, 중단
+experiment, 실험
+inspection, 검사
+indication, 지표
+representative, 직원/대표
+guarantee, 보장하다 (동)/ 굳은 약속(확약) (명)
+even, 심지어
+inquire, 문의하다
+invest in 명사, ~에 투자하다
+lower, 낮추다 (동)/ 더 낮은 (형)
+remain, 알리다 (누구에게 알릴지 필수) ex) to V/ of 명/ that 절
+manage [to V], 가까스로 해내다
+fail [to V], 해내지 못하다
+inquiry,질문
+expertise, 전문지식
+duration, 기간
+profit, 이윤
+treatment, 치료/대우
