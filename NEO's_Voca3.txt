@@ -1,0 +1,109 @@
+competition, 경쟁
+complaint, 불만
+conclusion, 결론
+consent, 동의(명)/동의하다(동)
+convenience,편의/편리
+duration, 기간
+employment, 고용
+envelope, 봉투
+reasonable, 합리적인
+reflective, 반영하는
+reliable, 믿을 수 있는
+respective, 각각의
+significant, 상당한
+specifically, 특히/구체적으로
+subsequent, 다음의/차후의
+fairly, 꽤/ 공평하게
+generously, 관대하다
+largely, 주로
+nearly, 거의
+follow, 따르다
+fulfill, 이행하다 
+function, 작용하다(동)/기능(명)
+guarantee, 보정하다
+implement, 실행하다
+include, 포함하다
+influence, 영향을 미치다(동)/영향(명)
+intend, ~할 의도이다
+expertise, 전문 지식
+failure, 실패
+forecast, 예측(명)/예상하다(동)
+from, 양식(명)/형성하다(동)
+founder, 창시자
+incentive, 장려금
+income, 수익
+inventory, 재고
+substantial, 상당한
+superior, 우세한
+uncertain, 불확실한
+unique, 유일한 독특한
+unstable, 불안정한
+useful, 유용한/쓸모있는
+valid, 유효한
+occasionally, 때떄로
+officially, 공식적으로
+once, 한때
+periodically, 주기적으로
+involve, 관련시키다
+issue, 화제거리(명)/발행하다(동)
+last, 지속하다(동)/마지막의(형)
+launch, 출시하다 (=release/reveal)
+locate, 위치를 찾아내다/ 찾다
+manufacture, 제조하다
+nominate, 지명하다
+predict, 예측하다
+lack, 부족(명사)
+loan, 대출
+maintenance, 유지보수
+mechanic, 수리공
+method, 방법/수단
+notice, 통지
+obligation, 의무
+opening, 공석
+visual, 시각적인
+accustomed, 익숙한
+adjustable, 조절 가능한
+combined, 결합된
+comparable, 필적할 만한
+coming, 다가오는
+demanding, 벅찬/까다로운
+precisely, 정확하게
+previously, 이전에
+probably, 아마
+promptly, 즉시/정각에
+present, 제공하다/제출하다
+prevent, 막다/방해하다
+raise, 올리다(동)/상승/임금인상(명)
+recognize, 인정하다
+recover, 회복하다
+reduce, 줄이다
+refer, 언급하다/참조하다
+precaution, 예방/사전 조치
+preparation, 준비
+prescription, 처방전
+pressure, 압력
+procedure, 절차
+processing, 처리
+productivity, 생산성
+progress, 진전/진행
+designated, 지정된
+detailed, 세부적인
+disappointing, 실망을 주는
+discouraging, 낙담시키는 
+distinguished, 뛰어난/구별된
+properly, 적절하게
+regularly, 정기적으로
+respectfully, 정중히
+securely, 확실히/단단히
+sharply, 급격히
+shortly, 곧/이내
+slightly,약간
+rely, 의지하다
+remit, 송금하다
+represent, 나타내다/대표하다
+restrict, 제한하다/금지하다
+schedule, 일정(명)/일정을 정하다(동)
+summarize, 요약하다
+province, 지방
+rate, 요금/속도/비율
+regulation, 규정
