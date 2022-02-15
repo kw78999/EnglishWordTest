@@ -2,58 +2,42 @@ look around, 둘러보다
 priority, 최우선 과제
 practice, 연습하다[동], 연습[명]
 recommend, 추천하다
-mind, 꺼려하다/싫어하다
 postpone, 연기하다 / 지연하다
 admit, 인정하다
 deny, 부정하다
 suggest, 제안하다
-
-
-RC MEGA PASS - 동명사를 목적어로 취하는 동사
-Recommend, 추천하다
-Consider, 고려하다
-
-Mind, 꺼려하다
-Enjoy, 즐기다
-Give up, 포기하다 (=quit)
-Avoid, 피하다
-
-Postpone, 연기하다 (=delay)
-Admit, 인정하다 (!=deny)부인하다
-Suggest, 제안하다
-Stop, 중단하다 (=Discontinue, Finish)
-
-
-WIN HAPPY DREAM - to부정사를 목적어로 취하는 동사
-Want/Wish/Would like, 원하다
-Intend, ~것을 의도하다/시도하다
-Need, ~할 필요가 있다 (=have to~)
-
-Hope, 바라다
-Agree, 동의하다 (자동사 이지만 [to V] 목적어 바로 받을 수 있음)
-Promiss, 약속하다
-Plan, 계획하다
-Y, WIN HAPPY DREAM에서 y는 없다.
-
-Decide, 결정하다
-Refuse, 거절하다
-Expact, 예상하다/기대하다
-Aim, ~하는 것을 목표로 삼다
-Manage, 가까스로 [to V]를 해내다
-
-
-3A - to부정사를 목적격 보어로 취하는 동사
-Ask, 요청하다
-require, 요청하다
-force, 요청하다
-
-Advise, 조언하다
-invite, 조언하다
-encourage, 조언하다
-
-Allow, 허락하다
-permit, 허락하다
-enable, 허락하다
+Recommend, 추천하다 [RC MEGA PASS - 동명사를 목적어로 취하는 동사]
+Consider, 고려하다  [RC MEGA PASS - 동명사를 목적어로 취하는 동사]
+Mind, 꺼려하다  [RC MEGA PASS - 동명사를 목적어로 취하는 동사]
+Enjoy, 즐기다  [RC MEGA PASS - 동명사를 목적어로 취하는 동사]
+Give up, 포기하다 (=quit)  [RC MEGA PASS - 동명사를 목적어로 취하는 동사]
+Avoid, 피하다  [RC MEGA PASS - 동명사를 목적어로 취하는 동사]
+Postpone, 연기하다 (=delay)  [RC MEGA PASS - 동명사를 목적어로 취하는 동사]
+Admit, 인정하다 (!=deny)부인하다  [RC MEGA PASS - 동명사를 목적어로 취하는 동사]
+Suggest, 제안하다  [RC MEGA PASS - 동명사를 목적어로 취하는 동사]
+Stop, 중단하다 (=Discontinue, Finish)  [RC MEGA PASS - 동명사를 목적어로 취하는 동사]
+Want/Wish/Would like, 원하다  WIN HAPPY DREAM - to부정사를 목적어로 취하는 동사
+Intend, ~것을 의도하다/시도하다  WIN HAPPY DREAM - to부정사를 목적어로 취하는 동사
+Need, ~할 필요가 있다 (=have to~)  WIN HAPPY DREAM - to부정사를 목적어로 취하는 동사
+Hope, 바라다  WIN HAPPY DREAM - to부정사를 목적어로 취하는 동사
+Agree, 동의하다 (자동사 이지만 [to V] 목적어 바로 받을 수 있음)  WIN HAPPY DREAM - to부정사를 목적어로 취하는 동사
+Promiss, 약속하다  WIN HAPPY DREAM - to부정사를 목적어로 취하는 동사
+Plan, 계획하다  WIN HAPPY DREAM - to부정사를 목적어로 취하는 동사
+Y, WIN HAPPY DREAM에서 y는 없다.  WIN HAPPY DREAM - to부정사를 목적어로 취하는 동사
+Decide, 결정하다  WIN HAPPY DREAM - to부정사를 목적어로 취하는 동사
+Refuse, 거절하다  WIN HAPPY DREAM - to부정사를 목적어로 취하는 동사
+Expact, 예상하다/기대하다  WIN HAPPY DREAM - to부정사를 목적어로 취하는 동사
+Aim, ~하는 것을 목표로 삼다  WIN HAPPY DREAM - to부정사를 목적어로 취하는 동사
+Manage, 가까스로 [to V]를 해내다  WIN HAPPY DREAM - to부정사를 목적어로 취하는 동사
+Ask, 요청하다  3A - to부정사를 목적격 보어로 취하는 동사
+require, 요청하다 3A - to부정사를 목적격 보어로 취하는 동사
+force, 요청하다  3A - to부정사를 목적격 보어로 취하는 동사
+Advise, 조언하다  3A - to부정사를 목적격 보어로 취하는 동사
+invite, 조언하다  3A - to부정사를 목적격 보어로 취하는 동사
+encourage, 조언하다  3A - to부정사를 목적격 보어로 취하는 동사
+Allow, 허락하다 3A - to부정사를 목적격 보어로 취하는 동사
+permit, 허락하다  3A - to부정사를 목적격 보어로 취하는 동사
+enable, 허락하다  3A - to부정사를 목적격 보어로 취하는 동사
 be busy -ing, ~하느라 바쁘다
 have difficulty (in) -ing, ~하느라 어려움을 겪다
 spend, 소비하다
@@ -105,42 +89,37 @@ vacant, 비어 있는
 executives, 임원들
 insecure, 불안정한
 residential, 주거의
-
-
-현재 분사 형태의 형용사 (~ing / ~하는)
-remaining work, 남아 있는 업무 [현재 분사 형태의 형용사]
-growing number, 증가하는 수
-increasing compertition, 증가하는 경쟁
-opening remarks, 개회사
-promising employee, 유망한 직원
-demanding supervisor, 까다로운 상사
-preceding year, 지난해
-following year, 다음 해
-leading company, 선두 회사
-challenging role, 힘든 역할
-opposing side, 반대편
-closing speech, 폐회사
-ongoing maintenance, 진행되는 유지보수
-outstanding job performance, 뛰어난 업무 능력
-surrounding area, 주변 지역
-
-과거 분사 형태의 형용사 ( p.p. ~된)
-intended readers, 의도된 독자
-accomplished musician, 뛰어난 음악가
-distinguished statesman, 뛰어난 정치가
-qualified applicant, 실력있는 지원자
-experienced employee, 경험이 많은 직원
-motivated employees, 의욕있는 직원들
-dedicated workers, 헌신하는 직원들 
-detailed report, 자세한 보고서
-limited time, 제한된 시간
-marked receptacles, 표시된 용기
-enclosed brochure, 동봉된 소책자
-attached file, 첨부된 파일
-preferred means, 선호되는 수단
-authorized agency, 허가 받은 업체
-specialized skills, 전문화된 기술
-sophisticated system, 정교한 시스템
-complicated process, 복잡한 과정
-celebrated place, 인기있는 장소
-guided tour, 가이드 여행
+remaining work, 남아 있는 업무 [현재 분사 형태의 형용사](~ing / ~하는)
+growing number, 증가하는 수   [현재 분사 형태의 형용사](~ing / ~하는)
+increasing compertition, 증가하는 경쟁   [현재 분사 형태의 형용사](~ing / ~하는)
+opening remarks, 개회사   [현재 분사 형태의 형용사](~ing / ~하는)
+promising employee, 유망한 직원   [현재 분사 형태의 형용사](~ing / ~하는)
+demanding supervisor, 까다로운 상사   [현재 분사 형태의 형용사](~ing / ~하는)
+preceding year, 지난 해   [현재 분사 형태의 형용사](~ing / ~하는)
+following year, 다음 해   [현재 분사 형태의 형용사](~ing / ~하는)
+leading company, 선두 회사   [현재 분사 형태의 형용사](~ing / ~하는)
+challenging role, 힘든 역할   [현재 분사 형태의 형용사](~ing / ~하는)
+opposing side, 반대 편   [현재 분사 형태의 형용사](~ing / ~하는)
+closing speech, 폐회사   [현재 분사 형태의 형용사](~ing / ~하는)
+ongoing maintenance, 진행되는 유지보수  [현재 분사 형태의 형용사](~ing / ~하는)
+outstanding job performance, 뛰어난 업무 능력   [현재 분사 형태의 형용사](~ing / ~하는)
+surrounding area, 주변 지역   [현재 분사 형태의 형용사](~ing / ~하는)
+intended readers, 의도된 독자  과거 분사 형태의 형용사 ( p.p. ~된)
+accomplished musician, 뛰어난 음악가  과거 분사 형태의 형용사 ( p.p. ~된)
+distinguished statesman, 뛰어난 정치가  과거 분사 형태의 형용사 ( p.p. ~된)
+qualified applicant, 실력있는 지원자  과거 분사 형태의 형용사 ( p.p. ~된)
+experienced employee, 경험이 많은 직원  과거 분사 형태의 형용사 ( p.p. ~된)
+motivated employees, 의욕있는 직원들  과거 분사 형태의 형용사 ( p.p. ~된)
+dedicated workers, 헌신하는 직원들   과거 분사 형태의 형용사 ( p.p. ~된)
+detailed report, 자세한 보고서  과거 분사 형태의 형용사 ( p.p. ~된)
+limited time, 제한된 시간  과거 분사 형태의 형용사 ( p.p. ~된)
+marked receptacles, 표시된 용기  과거 분사 형태의 형용사 ( p.p. ~된)
+enclosed brochure, 동봉된 소책자  과거 분사 형태의 형용사 ( p.p. ~된)
+attached file, 첨부된 파일  과거 분사 형태의 형용사 ( p.p. ~된)
+preferred means, 선호되는 수단  과거 분사 형태의 형용사 ( p.p. ~된)
+authorized agency, 허가 받은 업체  과거 분사 형태의 형용사 ( p.p. ~된)
+specialized skills, 전문화된 기술  과거 분사 형태의 형용사 ( p.p. ~된)
+sophisticated system, 정교한 시스템  과거 분사 형태의 형용사 ( p.p. ~된)
+complicated process, 복잡한 과정  과거 분사 형태의 형용사 ( p.p. ~된)
+celebrated place, 인기있는 장소  과거 분사 형태의 형용사 ( p.p. ~된)
+guided tour, 가이드 여행  과거 분사 형태의 형용사 ( p.p. ~된)

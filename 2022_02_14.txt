@@ -4,7 +4,7 @@ incident, 사고 사건
 infection, 감염
 reinforce, 강화 하다
 be requird [to v], ~ 요구받다
-urge, 촉구하다 
+urge, 촉구하다
 urge 누구 [to v], 누구에게 to v 하라고 촉구하다
 venue, 장소
 revenue, 소득/수입
@@ -55,7 +55,7 @@ warranty, 품질 보증
 replacement, 교환
 take one`s place, one`s의 자리를 대신하다
 as long as, [부사절 접속사] ~하는 한
-명사 p.p. by~, by~에 의해 동사 된 명사
+명사 p.p. by~, by~에 의해 p.p. 된 명사
 such as, ~과 같은/ 예를들어
 improper, 부적절한
 care about, 관심을 가지다

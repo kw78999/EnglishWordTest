@@ -1,75 +1,50 @@
-accompany        ,         동반하다/바래다주다
-advise        ,        충고하다/권유하다
-allow        ,        허락하다
-anticipate        ,         예측하다
-account        ,         계좌/설명하다
-accurate        ,         정확한
-appreciate        ,         감사하다
-approve        ,        승인하다
-attend        ,         참석하다 (= take part in/participate in)
-attract        ,         그리다/ 끌다
-compare        ,         비교하다
-comply        ,         준수하다
-conduct        ,         실행하다
-conservation        ,         보존
-decision        ,         결정
-demand        ,        요구하다(동)/수요(명)
-estimate        ,         추정하다(동)/견적서(명)
-invite        ,         초대하다/요청하다
-opportunity        ,         기회
-temporarily        ,         일시적으로
-worth        ,         ~할 가지가 있는(부)/가치(명)
-appropriate        ,         적절한
-apparently        ,         확실히/분명히
-approximately        ,         대략
-seek        ,         찾다/추구하다
-revision        ,         수정
-complimentary        ,         무료의
-diverse        ,         다양한
-birefly        ,         간략히
-verify        ,         증명하다
-affect        ,         ~에 영향을 미치다
-accordance        ,         일치
-entire        ,         전체의
-certifivation        ,         인증/자격증
-compensation        ,         보상/보상금
-numerous        ,         수많은
-encourage        ,        격려하다
-expire        ,         만료되다
-conclusion        ,         결론
-consent        ,         동의(명)/동의하다(동)
-duration        ,         기간
-employment        ,         고용
-reasonable        ,         합리적인
-reflective        ,         반영하는
-respective        ,         각각의
-significant        ,         상당한
-specifically        ,         특히/구체적으로
-subsequent        ,         다음의/차후의
-fairly        ,         꽤/ 공평하게
-largely        ,         주로
-function        ,         작용하다(동)/기능(명)
-implement        ,         실행하다
-intend        ,         ~할 의도이다
-expertise        ,         전문 지식
-forecast        ,         예측(명)/예상하다(동)
-substantial        ,         상당한
-unstable        ,         불안정한
-valid        ,         유효한
-periodically        ,         주기적으로
-involve        ,         관련시키다
-last        ,         지속하다(동)/마지막의(형)
-predict        ,         예측하다
-accustomed        ,         익숙한
-combined        ,         결합된
-precisely        ,         정확하게
-probably        ,         아마
-promptly        ,         즉시/정각에
-precaution        ,         예방/사전 조치
-preparation        ,         준비
-prescription        ,         처방전
-properly        ,         적절하게
-shortly        ,         곧/이내
-rely        ,         의지하다
-restrict        ,         제한하다/금지하다
-regulation        ,         규정
+anticipate    ,     예측하다
+arrival    ,     도착
+cautiously    ,     조심스럽게
+approve    ,    승인하다
+conduct    ,     실행하다
+conservation    ,     보존
+decision    ,     결정
+capable    ,     할 수 있는
+convenient    ,     편리한
+divide    ,     나누다
+effect    ,     효과
+estimate    ,     추정하다(동)/견적서(명)
+expect    ,     예상하다
+necessarily    ,     반드시
+invitation    ,     초대
+independent    ,     독립적인
+publish    ,     발행하다
+opportunity    ,     기회
+conclusion    ,     결론
+fulfill    ,     이행하다 
+forecast    ,     예측(명)/예상하다(동)
+substantial    ,     상당한
+unstable    ,     불안정한
+last    ,     지속하다(동)/마지막의(형)
+predict    ,     예측하다
+demanding    ,     벅찬/까다로운
+precisely    ,     정확하게
+promptly    ,     즉시/정각에
+present    ,     제공하다/제출하다
+precaution    ,     예방/사전 조치
+designated    ,     지정된
+disappointing    ,     실망을 주는
+discouraging    ,     낙담시키는 
+properly    ,     적절하게
+shortly    ,     곧/이내
+rely    ,     의지하다
+respond    ,     응답하다
+affordable    ,     가격이)알맞은
+appropriate    ,     적절한
+apparently    ,     확실히/분명히
+response    ,     응답
+diverse    ,     다양한
+durable    ,     내구성이 있는
+verify    ,     증명하다
+affect    ,     ~에 영향을 미치다
+entire    ,     전체의
+likely    ,     가능성있는
+certifivation    ,     인증/자격증
+ever    ,     최상급에서) 지금껏 
+deposit    ,     예금하다(동)/예금(명)
