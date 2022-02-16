@@ -1,0 +1,17 @@
+out of order, 고장난
+have trouble with, 고장난
+not working, 고장난
+malfunctioning, 고장난
+leaking, 물이 새는
+ripped, 찢어진
+squeaky, 끽끽거리는
+blurry,흐릿한
+jammed, 종이가 끼인
+cracked, 깨진
+stuck, 멈춘
+on and off, 불규칙적인
+take a look at, 점검하다
+examine, 점검하다 / 살펴보다
+put in a request, 수리 요청하다
+submit a request, 수리 요청하다
+won't 동사, ~하려하지 않다 (고장)
