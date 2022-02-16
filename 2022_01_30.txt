@@ -37,3 +37,6 @@ suitability, 적절함
 alleviate, 완화하다/ (+ stress/congestion) 부정적 단어 등을 완화하다
 express, 감정을)표현하다
 quantities, 양/수량
+reschedule, 일정을 조정하다
+move (up), 일정을 조정하다
+conflict, 겹치다/충돌하다
