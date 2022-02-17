@@ -1,0 +1,12 @@
+shipment, 택배
+parcel, 택배
+delivery status, 배송 상태
+missing, 누락된
+faulty, 결함이 있는
+mix up, 혼선 / 오류
+shipping address, 배송지
+express, 빠른 배송 서비스
+put together, 조립하다
+up date 사람 on 소식, 소식을 사람에게 알려주다
+was wupposed to, 원래 ~하기로 했다. (하지만~
+

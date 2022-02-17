@@ -1,11 +1,7 @@
 look around, 둘러보다
 priority, 최우선 과제
-practice, 연습하다[동], 연습[명]
-recommend, 추천하다
-postpone, 연기하다 / 지연하다
+practice, 연습하다[동] / 연습[명]
 admit, 인정하다
-deny, 부정하다
-suggest, 제안하다
 Recommend, 추천하다 [RC MEGA PASS - 동명사를 목적어로 취하는 동사]
 Consider, 고려하다  [RC MEGA PASS - 동명사를 목적어로 취하는 동사]
 Mind, 꺼려하다  [RC MEGA PASS - 동명사를 목적어로 취하는 동사]
@@ -15,7 +11,7 @@ Avoid, 피하다  [RC MEGA PASS - 동명사를 목적어로 취하는 동사]
 Postpone, 연기하다 (=delay)  [RC MEGA PASS - 동명사를 목적어로 취하는 동사]
 Admit, 인정하다 (!=deny)부인하다  [RC MEGA PASS - 동명사를 목적어로 취하는 동사]
 Suggest, 제안하다  [RC MEGA PASS - 동명사를 목적어로 취하는 동사]
-Stop, 중단하다 (=Discontinue, Finish)  [RC MEGA PASS - 동명사를 목적어로 취하는 동사]
+Stop, 중단하다 (=Discontinue/ Finish)  [RC MEGA PASS - 동명사를 목적어로 취하는 동사]
 Want/Wish/Would like, 원하다  WIN HAPPY DREAM - to부정사를 목적어로 취하는 동사
 Intend, ~것을 의도하다/시도하다  WIN HAPPY DREAM - to부정사를 목적어로 취하는 동사
 Need, ~할 필요가 있다 (=have to~)  WIN HAPPY DREAM - to부정사를 목적어로 취하는 동사
