@@ -1,0 +1,65 @@
+boat, boats
+house, houses
+cat, cats 
+river, rivers
+bus, buses
+wish, wishes 소원
+pitch, pitches 경기장
+box, boxes 
+penny,pennies 화폐 단위
+spy, spies 스파이
+baby, babies 
+city, cities
+daisy, daisies 데이지
+woman, women
+man,men
+child,children
+tooth,teeth
+foot,feet
+person,people
+leaf,leaves
+mouse,mice
+goose,geese 거위
+half,halves 절반
+knife, knives 
+wife, wives
+life, lives
+elf,elves 요정
+loaf,loaves 빵 한덩이
+potato,potatoes 
+tomato,tomatoes
+cactus,cacti 선인장
+focus,foci (사진의)초점
+fungus, fungi 곰팡이
+nucleus, nuclei  핵
+analysis, analyses 분석
+diagnosis, diagnoses 진단
+oasis, oases
+thesis, theses 논문
+crisis, crises 위기
+phenomenon, phenomena 현상
+criterion, criteria 기준
+datum, data 자료
+sheep, sheep 
+fish, fish
+deer, deer 사슴
+species, species 종
+aircraft, aircraft 항공기
+news, 단수
+athletics, 단수 육상경기
+linguistics, 단수 언어학
+darts, 단수 다트
+billiards, 단수 당구
+trousers, 복수만 사용됨 바지
+jeans, 복수만 사용됨 바지
+glasses, 복수만 사용됨 안경
+savings, 복수만 사용됨 예금
+steps, 복수만 사용됨 계단
+stairs, 복수만 사용됨 계단
+customs, 복수만 사용됨 세관
+congratulations, 복수만 사용됨 축하
+tropics, 복수만 사용됨 열대
+spectacles, 복수만 사용됨 구경거리 / 광경
+outskirts, 복수만 사용됨 변두리 / 교외
+goods, 복수만 사용됨  
+wits, 복수만 사용됨 재치
