@@ -27,7 +27,7 @@ concerned, 걱정하는/ 관련된
 briecase, 서류가방
 come over, 방문하다/ 오다
 timetable, 시간표
-chief, 주된/최고위자
+chief, 주된/최고위자인 [adj]
 conceal, 감추다
 correct, 맞는 정정하다
 emprace, 받아들이다/ 포용하다
@@ -57,4 +57,3 @@ go through, 겪다
 looking into, 조사하다
 in addition, 게다가 / 추가적으로
 in addition to, ~뿐만아니라 ~외에도 [전치사]
-
