@@ -1,0 +1,4 @@
+adjacent, 가까운
+departure, 출발
+proceed, 진행하다 
+occur, 발생하다
