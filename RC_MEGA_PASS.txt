@@ -52,3 +52,14 @@ permit, 허락하다
 enable, 허락하다
 
 
+RIACA 리어카 
+A에게 B를 알리다 [3형식]
+A에게 That절을 알리다 [4형식]
+
+Remind, 상기시키다
+Inform notify apprise, 알리다
+Assure, 보장하다
+Convince, 설득시키다
+Advise, 알리다 권하다 
+
+
