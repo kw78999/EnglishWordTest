@@ -19,7 +19,7 @@ an assortment of, 다양한
 various, 다양한
 scientifically, 과학적으로
 proven, 증명된 (prove pp)
-apply, 신청하다 저적용하다 바르다 뿌리다
+apply, 신청하다 적용하다 바르다 뿌리다
 leash, 개목줄
 scatter, 소량
 patron, 고객
@@ -40,7 +40,6 @@ experimental, 실험적인
 terrific, 훌륭한 엄청난
 omit,빠트리다 생략하다
 proprietor, 자영업자
-verify, 확인하다
 intact, 온전한 완벽한
 compatible, (물건과)호환이 되다/ (사람 성격이) 넉살이 좋다
 regret, 후회하다 유감스럽다

@@ -63,3 +63,14 @@ Convince, 설득시키다
 Advise, 알리다 권하다 
 
 
+자동사 타동사 모두 가능
+
+increase, 증가하다[자]   증가시키다[타]
+perform, 공연하다 연주하다[자/타]  수행하다[타]
+expand, 확장하다[자]   확장시키다[타]
+start, ~에서 출발하다[자]  ~을 시작하다[타]
+begin, 시작하다
+improve, 개선하다
+operate, 작동하다 
+close, 폐쇄하다
+return, 되돌아가다[자]  반납하다[타]
