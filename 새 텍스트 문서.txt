@@ -158,8 +158,47 @@ public class Main {
             }else{
                 System.out.println("---------------------------틀렸습니다.");
                 System.out.println("정답 : " + list.get(i).get(1));
-                fail++;
-                failCheck[i] = true;
+
+                System.out.println("정답으로 인정하시겠습니까? 정답인정 : 1     오답인정 : 2");
+                String check = dap.readLine();
+                if(check.equals("1")){
+                    System.out.println("---------------------------정답");
+                    boolean lastCheck = true;
+                    for (int k=0; k<word_class_list.get(i).size();k++) {  //접접 : ~반면에 ~동안에
+                        System.out.println(word_class_list.get(i).get(k));
+                        String dapStr2 = dap.readLine();
+                        if(list.get(i).get(2+k).trim().equals(dapStr2)){
+                            System.out.println("---------------------------정답");
+                        }else{
+                            System.out.println("---------------------------틀렸습니다.");
+                            System.out.println("정답 : " + list.get(i).get(2+k).trim());
+                            System.out.println("정답으로 인정하시겠습니까? 정답인정 : 1     오답인정 : 2");
+                            String check2 = dap.readLine();
+                            if(check2.equals("1")){
+                                System.out.println("---------------------------정답");
+                            }else{
+                                System.out.println("---------------------------틀렸습니다.");
+                                lastCheck=false;
+                                break;
+                            }
+                        }
+                    }
+
+                    if(lastCheck==true){
+                        System.out.println();
+                        System.out.println("---------------------------  " + list.get(i).get(0) + "  정답");
+                        success++;
+                        successCheck[i] = true;
+                    }else{
+                        fail++;
+                        failCheck[i] = true;
+                    }
+
+                }else{
+                    System.out.println("---------------------------틀렸습니다.");
+                    fail++;
+                    failCheck[i] = true;
+                }
             }
 
             for (int k=0; k<list.size(); k++){
