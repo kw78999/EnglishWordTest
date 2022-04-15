@@ -3,7 +3,7 @@ departure, 출발
 proceed, 진행하다 
 occur, 발생하다
 companion, 동반자
-cabin, (배,항공기의) 객실 선실 / 오두막집
+cabin, (배 항공기의) 객실 선실 / 오두막집
 audit, 회계 감사/ 심사
 curtail, ~을 줄이다 삭감하다
 deficit, 적자 
