@@ -1,3 +1,53 @@
-while, [접접&명&동], ~동안에 ~인 반면에 , 짧은 기간, 잠시 휴식을 취하다
-yet, [접&부부부], 그렇지만(=but), (의문문) 이미 벌써 / (부정문) 아직/ (최상급 뒤에서) 지금껏
-as, [접접접접&전&부], 이유/시간/~하는대로/~와 마찬가지로(도치 As+V+S), 수단 자격, ~만큼(as 형부 as)
+while, [&접접&명&동&], ~동안에 ~인 반면에 , 짧은 기간, 잠시 휴식을 취하다
+yet, [&접&부부부&], 그렇지만(=but), (의문문) 이미 벌써 / (부정문) 아직/ (최상급 뒤에서) 지금껏
+as, [&접접접접&전&부&], 이유/시간/~하는대로/~와 마찬가지로(도치 As+V+S), 수단 자격, ~만큼(as 형부 as)
+however, [&부사&복합관계부사&], 그렇지만 (문장 연결x) , 아무리 ~일지라도 (문장 연결 가능/도치*) howerver expensive(형/부) the car(주어) is(동사), i will buy it
+since, [&접접&전&부&], 이유/~때문에  시간/~이후로(시간접속사로 사용될 떄 주절은 완료/완료진행  since절은 과거), 시간/~이후로, 시간/~이후로
+plus,[&접&전&부&명&], 게다가 더욱이, 게다가 더욱더, 게다가 더욱더, 장점
+once,[&접&부부&], 일단 ~하고 난 후, 한 번(once a week) / 한 때
+so,[&접&부부부&], 결과(~해서), 결과(~했다. 그래서) // (강조) 너무 so 형/부 that = 앞의 문장에 따라 자동사나 원벽한 문장은 부사/ be동사 연결동사는 형용사 // (동의) 또한 / 역시  so 동사 주어 어순으로 사용
+unless,[&접&], ~이 없다면 / ~이지 않는다면
+barring,[&전&], ~이 없다면 / ~이지 않는다면
+concerning / on / as for / as to / pertaining to / with respect to / with regard to, [&전&], ~에 관해서
+이유의 접속사(~때문에) ,[&접&], as / since / now that / because / inasmush as
+이유의 전치사(~때문에),[&전&], because of / due to / owing to / on account of
+양보의 접속사(~임에도 불구하고),[&접&], although / though / even though 
+양보의 전치사(~임에도 불구하고), [&전&], despite / in spite of / notwithstanding
+결과의 접속사(그래서 그결과로), [&접&], so
+결과의 부사(그래서 그결과로), [&부&], so / thus / therefore / as a result / accordingly
+제외를 나타내는 접속사 (~를 제외하면 ),[&접&], except that / except when 
+제외를 나타내는 전치사 (~를 제외하면 ),[&전&], except / except for / but / excluding / excepting / aside from
+in addition, [&부&] , 추가적으로
+in addition to, [&전&], ~이외에도 추가적으로
+rather than, [&접&전&], ~를 대신해서 , ~를 대신해서
+instead of, [&전&], ~를 대신해서
+in lieu of,[&전&], ~를 대신해서
+rather, [&부&] , 약간 다소
+following,[&전&형&], ~후에 (Following the speech), ~아래의 다음의 (the following year)
+in case of / in the event of, [&전&], ~의 경우에는
+in case (that) / in the event (that) , [&접&] , ~의 경우에는
+beside, &전&, ~의 옆에 (=next to)
+besides, &전&부&, 게다가 더욱더, 게다가 더욱더 (=in addition to)
+along,&전&, +장소  ~를 따라서
+along with,&전&, ~와 함께
+Provided (that) / providing (that) / if / on condition that / as long as / so long as , &접&, ~이기만 한다면 / ~이라면
+though, &접&부&, ~임에도 불구하고 , ~임에도 불구하고
+nevertheless / nonetherless / notwithstanding ,&부&, 그럼에도 불구하고
+unlike, &전&형&, ~와 다르게 상이하게 , 닮지 않은
+alike, &형&부&, 닮은 , 똑같이 비슷하게
+worth, &전&명&형&, ~의 가치가 있는, 가치, ~의 가치가 있는
+in that,&접&, ~라는 관점(측면)에서
+as if / as though, &접&, 마치 ~인 것 처럼
+such as,&전&, 예를 들어
+as of / as from / begining / starting , &전&, ~언제부터 (As of March 1st.) 3월 1일부터
+as usual / always , &부&, 항상
+each time / every time / whenever, &접&, ~할 때 마다
+by the time,&접&, ~할 때 쯤에는 / by the time + 주어 + 과거시제. 주어 + 과거 완료 / by the time + 주어 + 현재. 주어 + 미래 미래완료
+given that / considering (that) , &접&, ~를 고려하면     *given [전치사] ~를 고려하면
+only if, &접&, 오직 ~일 경우에만
+if only, &접&, 만약 ~ 라면
+otherwise, &부&, (접속부사)그렇지 않는다면 / (일반부사) 그렇지 않게   (* say / think / believe / suggest + otherwise ) / (일반부사2) 다른 점에서
+or,&접&,그렇지 않으면
+meanwhile / meantime , &부&, (부1) 그사이에 그동안에 / (부2) 한편 반면에
+as well,&부&, 게다가 역시 또한
+as well as, &접&, 뿐만 아니라 A as well as B
