@@ -51,3 +51,8 @@ or,&접&,그렇지 않으면
 meanwhile / meantime , &부&, (부1) 그사이에 그동안에 / (부2) 한편 반면에
 as well,&부&, 게다가 역시 또한
 as well as, &접&, 뿐만 아니라 A as well as B
+after, &접&전&부&, ~후에
+afterward, &부&, 그 이후에
+whether,&접&, 명사절(~인지 아닌지)  부사절(~에 상관 없이)
+assuming (that), &접&, ~이기만 한다면
+aside from / apart from, &접&, ~이외에도 (=in addition to)  / ~를 제외하면(=except)
